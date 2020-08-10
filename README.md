@@ -20,12 +20,13 @@
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
-  <p align="center">
+
   <a href="https://github.com/Kadragow/">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kadragow&layout=compact&theme=tokyonight" alt="My stats" />
   </a>
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=kadragow&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-  <p>
+  <a href="https://github.com/Kadragow/">
+  <img src="https://github-readme-stats.vercel.app/api?username=kadragow&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My stats" />
+  </a>
 
 ---
 
