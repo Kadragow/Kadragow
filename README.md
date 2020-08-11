@@ -70,12 +70,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kamil-blanik/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://www.facebook.com/kamil.lukasz.blanik"> <img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" width="30px" alt="Facebook">     </a> &nbsp; &nbsp;
-  <a href="kamil.lukasz.blanik@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="30px" alt="gmail"></a> &nbsp; &nbsp;
+ &nbsp; &nbsp;
+</p>
+<p align="center">
+    <a><img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="30px" alt="gmail">kamil.lukasz.blanik@gmail.com</a> &nbsp; &nbsp;
  &nbsp; &nbsp;
 </p>
 
 <p align="center">
-  <i> :sparkles: </i>
+  <i>Have you got an idea for a cool project? :sparkles: Feel free to contact me!</i>
 </p>
 
 <br>
