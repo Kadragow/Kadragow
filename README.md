@@ -73,7 +73,9 @@
  &nbsp; &nbsp;
 </p>
 <p align="center">
-    <a><img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="30px" alt="gmail">kamil.lukasz.blanik@gmail.com</a> &nbsp; &nbsp;
+    <img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="10px" alt="gmail">
+    &nbsp; &nbsp;<a>kamil.lukasz.blanik@gmail.com</a> &nbsp; &nbsp;
+    <img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="10px" alt="gmail">
  &nbsp; &nbsp;
 </p>
 
