@@ -62,7 +62,9 @@
 ---
 
 </details>
-
+<p align="center"> 
+  <a href="https://kadragow.github.io">Visit my portfolio website!</a>
+</p>
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
@@ -84,7 +86,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
-</p>
