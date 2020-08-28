@@ -71,8 +71,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamil-blanik/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.facebook.com/kamil.lukasz.blanik"> <img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" width="30px" alt="Facebook">     </a> &nbsp; &nbsp;
- &nbsp; &nbsp;
+  <a href="https://www.facebook.com/kamil.lukasz.blanik"> <img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" width="30px" alt="Facebook"></a>
 </p>
 <p align="center">
     <img src="https://img.icons8.com/ios-filled/50/000000/important-mail.png" width="10px" alt="gmail">
