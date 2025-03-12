@@ -6,9 +6,7 @@
     <br><br>
     I'm Kamil Błanik :wave:
     <br><br>
-    I'm a student of the Wrocław University of Technology.
-    <br><br>
-    I'm coding in many different languages, but my favourites are Java and Python!
+    I'm Fullstack Developer.
     <br><br>
     I'm amateur of astronomy and astrophotography.
   </samp>
@@ -46,18 +44,6 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="vs2019" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm" style="vertical-align:top; margin:4px">
-
----
-
-</p>
-
-### - I'm currently...
-
-- Improving my web skills.
-- Learning to develop web app.
-- Learning TypeScript (JavaScript aswell) with Angular.
-- Learning to create nice looking modern web page...
-- ... and trying to improve my sense of aesthetics :no_mouth:.
 
 ---
 
